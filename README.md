@@ -12,7 +12,7 @@ Features:
 - Chức năng tìm kiếm
 - Trang home đổ dữ liệu từ DB
 - Giao diện đơn giản, sử dụng Bootraps
-
+- Upload hình ảnh sử dụng hàm Store của Laravel
 Cách cài đặt:
 - Clone project về.
 - Cài đặt Sentinel bằng 2 dòng lệnh
